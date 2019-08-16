@@ -1,0 +1,44 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: main.app
+
+libraries:
+  - name: ssl
+    version: latest
+
+skip_files:
+- ^(.*/)?app\.yaml
+- ^(.*/)?app\.yml
+- ^(.*/)?#.*#
+- ^(.*/)?.*~
+- ^(.*/)?.*\.py[co]
+- ^(.*/)?.*/RCS/.*
+- ^(.*/)?\..*
+- ^(.*/)?tests$
+- ^(.*/)?test$
+- ^test/(.*/)?
+- ^COPYING.LESSER
+- ^README\..*
+- \.gitignore
+- ^\.git/.*
+- \.*\.lint$
+- ^fabfile\.py
+- ^testrunner\.py
+- ^grunt\.js
+- ^node_modules/(.*/)?
+- /home/sayali/Downloads/SmartFit-master/venv/local/lib/python2.7/site-packages/tensorflow/python/_pywrap_tensorflow_internal.so
+- ^Makefile$
+- ^venv$
+- /home/sayali/Downloads/SmartFit-master/human_parsing/LIP_JPPNet/checkpoint/human_parsing_model.zip
+- node_modules/
+- ^(.*/)?app\.yaml
+- ^(.*/)?app\.yml
+- ^(.*/)?index\.yaml
+- ^(.*/)?index\.yml
+- /home/sayali/Downloads/SmartFit-master/human_parsing/LIP_JPPNet/checkpoint/JPPNet-s2/model.ckpt-205632.data-00000-of-00001

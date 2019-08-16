@@ -1,0 +1,55 @@
+<div class="row">
+
+        <div class="col-md-6" ng-if="!showtrial">
+        <div class="card" style="height: 30rem">
+            <div class="card-body">
+                <h5 class="card-title">Your Image</h5>
+                <img ng-src="{{ modelimg }}">
+                <input type="file" id="trigger" onchange="angular.element(this).scope().setmodelFile(this)" accept="image/*">
+            </div>
+        </div>
+
+    </div>
+
+    <div class="col-md-6" ng-if="!showtrial">
+        <div class="card" style="height: 30rem">
+            <div class="card-body">
+                <h5 class="card-title">Cloth Image</h5>
+                <div class="col-lg-3 col-md-4 col-6">
+
+                <span class="d-block mb-4 h-100">
+                    <input type="radio" name="optradio">
+            <img class="img-fluid img-thumbnail" ng-src="{{ firstimg }}" alt="">
+          </span>
+            </div>
+                <div class="col-lg-3 col-md-4 col-6">
+      <span  class="d-block mb-4 h-100">
+           <input type="radio" name="optradio">
+            <img class="img-fluid img-thumbnail" ng-src="{{ secondimg }}" alt="">
+          </span>
+    </div>
+                <div class="col-lg-3 col-md-4 col-6">
+      <span  class="d-block mb-4 h-100">
+           <input type="radio" name="optradio">
+            <img class="img-fluid img-thumbnail" ng-src="{{ thirdimg }}" alt="">
+          </span>
+    </div>
+
+            </div>
+        </div>
+
+    </div>
+    <div ng-if="!showtrial">
+
+        <button class="float-right" ng-click="resulttrial()">Try it</button>
+    </div>
+          <div class="col-md-6" ng-if="showtrial">
+        <div class="card" style="height: 30rem">
+            <div class="card-body">
+                <h5 class="card-title">Trial room</h5>
+                <img ng-src="{{ fourthimg }}">
+            </div>
+        </div>
+    <button ng-click="checkout()">Add to cart</button>
+    </div>
+</div>
