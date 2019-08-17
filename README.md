@@ -72,4 +72,4 @@ This project builds from the work listed below:
 * Virtual try-on
   * VITON ([repo](https://github.com/xthan/VITON), [paper](https://arxiv.org/abs/1711.08447))
   
-  * https://github.com/RohanBhandari/SmartFit
+  * https://github.com/RohanBhandari/SmartFit (code)
