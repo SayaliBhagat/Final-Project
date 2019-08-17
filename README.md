@@ -18,12 +18,8 @@ Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZz
 
 # [Virtual Wardrobe]
 ### A virtual fitting room service for StitchFix!
+![Image description](input.jpg)
 
-<p float="left">
-  <img src="inputs/example_person.jpg" width="256" hspace="20"/>
-  <img src="inputs/example_clothing.jpg" width="256" hspace="20"/> 
-  <img src="output/example_output.png" width="256"/> 
-</p>
 
 * [Important Note](#important-note)
 * [Requisites](#requisites)
