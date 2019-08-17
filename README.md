@@ -1,6 +1,6 @@
 # Final-Project
 DMA Final Project
-
+Smartfit-master folder has all the code and stage-wise results in result folder
 URL: http://3.88.222.34:5000/
 
 For the url login:
@@ -16,7 +16,7 @@ Note: the demo is tested for just below images. For testing on different images 
 Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZzuuEMwbejhY74bV6azSq7GI#2
 
 
-# [Virtual Wardrobe]
+# Virtual Wardrobe
 ### A virtual fitting room service for StitchFix!
 <p float="left">
   <img src="SmartFit-master/inputs/example_person.jpg" width="256" hspace="20"/>
