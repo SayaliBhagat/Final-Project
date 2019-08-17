@@ -49,17 +49,6 @@ To test whether the setup was successful, run the following command that should 
 ```
 The corresponding output is `output/output.png` and should be similar to `output/example_output.png` (the right-most image above).
 
-## Notebooks
-
-This repo includes some jupyter notebooks (located in `notebooks/`) that may be useful for understanding the Virtual Wardrobe pipeline and its inputs/outputs. Exact usage instructions are at the top of each notebook.
-
-* `visualize_inputs.ipynb`
-  * Explains and shows the main inputs to the clothing transfer model: body mask, face and pants, keypoint pose map, and clothing item.
-* `visualize_output.ipynb`
-  * Displays the output image.
-* `skintone_check.ipynb`
-  * Describes how the skintone check works. This is a check to make sure that the clothing transfer model did not change the skintone of the inputted person.
-
 ## References
 
 This project builds from the work listed below:
@@ -72,4 +61,4 @@ This project builds from the work listed below:
 * Virtual try-on
   * VITON ([repo](https://github.com/xthan/VITON), [paper](https://arxiv.org/abs/1711.08447))
   
-  * https://github.com/RohanBhandari/SmartFit (code)
+  * https://github.com/RohanBhandari/SmartFit
