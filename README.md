@@ -1,19 +1,20 @@
 # Final-Project
 DMA Final Project
+
 Smartfit-master folder has all the code and stage-wise results in result folder
-URL: http://3.88.222.34:5000/
+# URL: http://3.88.222.34:5000/
 
 For the url login:
 
-Username: sayali
+# Username: sayali
 
-Password: sayali@123
+# Password: sayali@123
 
-Input image name: input.jpg
+# Input image name: input.jpg
 
 Note: the demo is tested for just below images. For testing on different images you need to go through testing the code for rest images as well
 
-Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZzuuEMwbejhY74bV6azSq7GI#2
+# Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZzuuEMwbejhY74bV6azSq7GI#2
 
 
 # Virtual Wardrobe
