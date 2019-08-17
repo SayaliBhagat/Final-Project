@@ -24,21 +24,6 @@ This repository is for demo purposes only and runs a publicly available clothing
 * [Octave 4.2+](https://www.gnu.org/software/octave/download.html) (with [image](https://octave.sourceforge.io/image/index.html) package)
   * Also compatible with MATLAB
 
-## Setup
-
-First clone the repository:
-```
-git clone https://github.com/RohanBhandari/SmartFit.git
-cd SmartFit
-```
-
-Next, run `source setup.sh`, which will create a conda environment and install the required packages via
-```
-conda create --name smartfit python=2.7 pip
-source activate smartfit
-pip install -r requirements.txt
-```
-Additionally, `setup.sh` will clone and setup auxiliary repositories that do the [human parsing](https://github.com/RohanBhandari/LIP_JPPNet.git), [pose estimation](https://github.com/RohanBhandari/keras_Realtime_Multi-Person_Pose_Estimation), and [clothing transfer](https://github.com/RohanBhandari/VITON/tree/f8427292e653df9ecb09a1413cfc4e0575a34469) steps. This process will download pre-trained models for each of the tasks.
 
 ### Test Example
 
