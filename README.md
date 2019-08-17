@@ -71,3 +71,5 @@ This project builds from the work listed below:
     * [Keras implementation](https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation)
 * Virtual try-on
   * VITON ([repo](https://github.com/xthan/VITON), [paper](https://arxiv.org/abs/1711.08447))
+  
+  * https://github.com/RohanBhandari/SmartFit
