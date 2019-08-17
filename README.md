@@ -14,7 +14,7 @@ For the url login:
 
 Note: the demo is tested for just below images. For testing on different images you need to go through testing the code for rest images as well
 
-### Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZzuuEMwbejhY74bV6azSq7GI#2
+### Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZzuuEMwbejhY74bV6azSq7GI#0
 
 
 # Virtual Wardrobe
