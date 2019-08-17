@@ -1,5 +1,5 @@
-# [SmartFit](https://docs.google.com/presentation/d/146ZfU9597FB8AG4J9jFxlkXjaEJga5XEbI_EbsG0Jxw/present#slide=id.gc6f80d1ff_0_0)
-### A virtual fitting room service for e-commerce!
+# [Virtual Wardrobe](https://docs.google.com/presentation/d/146ZfU9597FB8AG4J9jFxlkXjaEJga5XEbI_EbsG0Jxw/present#slide=id.gc6f80d1ff_0_0)
+### A virtual fitting room service for StitchFix!
 
 <p float="left">
   <img src="inputs/example_person.jpg" width="256" hspace="20"/>
@@ -9,8 +9,6 @@
 
 * [Important Note](#important-note)
 * [Requisites](#requisites)
-* [Setup](#setup)
-  * [Test Example](#test-example)
 * [Notebooks](#notebooks)
 * [References](#references)
 
