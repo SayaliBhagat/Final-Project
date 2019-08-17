@@ -16,7 +16,7 @@ Note: the demo is tested for just below images. For testing on different images 
 
 ### Claat Link: https://codelabs-preview.appspot.com/?file_id=1fMRRFxcZKDVJ9accxqPZzuuEMwbejhY74bV6azSq7GI#0
 
-
+<img src="Untitled Diagram.jpg">
 # Virtual Wardrobe
 ### A virtual fitting room service for StitchFix!
 <p float="left">
